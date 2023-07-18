@@ -37,19 +37,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Projeto do currículo online agrega habilidades, idiomas, experiências profissionais, além de links úteis para mostrar o portfólio.
 
 <!--[Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/dev_links)-->
-<!--
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
--->
-<!--## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+---
+## 🔖 Layout
 
--->
+Esse projeto não possui layout disponível, já que a DIO não liberou acesso, ou link para o layout no Figma.
+
 ---
 ## 📑 Aprendizado
 
-Durante esse projeto, reforcei conceitos básicos de HTML, CSS e Javascript. E utilizei para fixar e melhor compreender sobre o alinhamento e posicionamento dos elementos em diferentes displays.
-Aprendi sobre a optimazação de imagens, deixando elas mais leves para os futuros usuários, economizando dados e fazendo o carregamento ser mais rápido. 
+O projeto foi feito usando o Mobile First para evitar a escrita de tanto código em CSS e melhorar a responsividade das telas. Também utilizei Media Queries para o comportamento se adequar aos diferentes tamanhos de telas.
+Foi utilizado o  conceito de background em gradiente e animations, através do Key Frame.
 
 ---
 
