@@ -18,7 +18,8 @@
     background-image: url('../img/icons/header.svg');
 }
 
-.header .photo {
+.header #profilephoto {
+    margin: auto;
     width: 200px;
     height: 200px;
     border-radius: 50%;
