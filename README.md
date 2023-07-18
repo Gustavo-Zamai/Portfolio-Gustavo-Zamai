@@ -46,7 +46,7 @@ Esse projeto não possui layout disponível, já que a DIO não liberou acesso, 
 ---
 ## 📑 Aprendizado
 
-O projeto foi feito usando o Mobile First para evitar a escrita de tanto código em CSS e melhorar a responsividade das telas. Também utilizei Media Queries para o comportamento se adequar aos diferentes tamanhos de telas.
+O projeto foi feito usando o Mobile First para evitar a escrita de tanto código em CSS e melhorar a responsividade das telas. Também utilizei Media Queries para os comportamentos se adequarem aos diferentes tamanhos de telas.
 Foi utilizado o  conceito de background em gradiente e animations, através do Key Frame.
 
 ---
