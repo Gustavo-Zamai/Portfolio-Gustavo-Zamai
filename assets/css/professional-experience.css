@@ -1,0 +1,37 @@
+
+.professional-experience {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.professional-experience h3{
+    padding-bottom: .85rem;
+}
+
+.professional-experience p {
+    margin-bottom: 1rem;
+}
+
+.professional-experience li {
+    margin-bottom: 1.25rem;
+}
+
+.professional-experience li .period{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.professional-experience li .period::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem;
+    background-image: url('/assets/images/icons/calendar.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}

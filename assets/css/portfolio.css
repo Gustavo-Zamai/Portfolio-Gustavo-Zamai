@@ -21,8 +21,8 @@
     align-items: center;
     font-size: 1.25rem;
     font-weight: 700;
+    margin: 0;
     padding-bottom: .5rem;
-
 }
 
 .portfolio li .title.github::before {
