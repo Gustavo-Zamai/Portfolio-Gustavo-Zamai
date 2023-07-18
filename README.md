@@ -1,4 +1,4 @@
-<h1 align="center">Currículo Online</h1>
+<h1 align="center">Portfólio Online</h1>
 
 <p align="center">
 Projeto de um currículo online, contendo skills, idiomas, experiências profissionais e link úteis para portfólio. <br/>
@@ -48,7 +48,8 @@ Você pode visualizar o layout do projeto através [Desse Link](https://www.figm
 ---
 ## 📑 Aprendizado
 
-Durante esse projeto, reforcei conceitos básicos de HTML, CSS e Javascript. E utilizei para fixar e melhor compreender sobre o alinhamento e posicionamento dos elementos em diferentes displays. 
+Durante esse projeto, reforcei conceitos básicos de HTML, CSS e Javascript. E utilizei para fixar e melhor compreender sobre o alinhamento e posicionamento dos elementos em diferentes displays.
+Aprendi sobre a optimazação de imagens, deixando elas mais leves para os futuros usuários, economizando dados e fazendo o carregamento ser mais rápido. 
 
 ---
 
