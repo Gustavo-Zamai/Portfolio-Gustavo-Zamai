@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto do currículo online agrega habilidades, idiomas, experiências profissionais, além de links úteis para mostrar o portfólio.
 
-<!--[Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/dev_links)-->
+[Acesse o projeto finalizado, online](https://gustavo-zamai.github.io/Portfolio-Gustavo-Zamai/)
 
 ---
 ## 🔖 Layout
