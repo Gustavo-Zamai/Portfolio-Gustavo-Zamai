@@ -41,7 +41,8 @@ O Projeto do currículo online agrega habilidades, idiomas, experiências profis
 ---
 ## 🔖 Layout
 
-Esse projeto não possui layout disponível, já que a DIO não liberou acesso, ou link para o layout no Figma.
+Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/file/g6zA6klLrCWZAp76tzoVJZ/Portfolio---EDUCATION?type=design&node-id=0-1&mode=design&t=6kIyAoDFVoVazTc1-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 
 ---
 ## 📑 Aprendizado
