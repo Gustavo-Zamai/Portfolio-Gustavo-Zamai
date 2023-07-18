@@ -49,7 +49,9 @@ Esse projeto não possui layout disponível, já que a DIO não liberou acesso, 
 O projeto foi feito usando o Mobile First para evitar a escrita de tanto código em CSS e melhorar a responsividade das telas. Também utilizei Media Queries para os comportamentos se adequarem aos diferentes tamanhos de telas.</br>
 Foi utilizado o  conceito de background em gradiente e animations, através do Key Frame.</br>
 Foi utilizada a API do Github para gerar informações de forma dinâmica.</br>
-Foram utilizadas Promises e funções assíncronas.
+Foram utilizadas Promises e funções assíncronas.</br>
+E o github foi utilizado para que a API fosse consumida com os dados corretos.
+
 
 
 ---
