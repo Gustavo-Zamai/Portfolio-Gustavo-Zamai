@@ -32,30 +32,33 @@
 <body>
   <main class="main">
     <header class="header">
-      <img class="photo" src="assets/images/avatar.png"
+      <img id="profilephoto" src="assets/images/avatar.png"
         alt="Imagem de Gustavo Simão Zamai, sorrindo, usando um agasalho cinza" />
-      <h1 class="title">Olá, </br>eu sou Gustavo S Zamai</h1>
+      <h1 class="title">
+        Olá, </br>eu sou <span id="profile.name">Carregando...</span>
+      </h1>
       <div class="information">
         <p class="job">
-          <a href="https://www.linkedin.com/in/gustavo-simão-zamai-664a5521a/" target="_blank">
-            Front-end Developer Junior
+          <a href="https://www.linkedin.com/in/gustavo-simão-zamai-664a5521a/" target="_blank" id="profile.job">
+            Carregando...
           </a>
         </p>
-        <p class="location">Mococa - SP</p>
+        <p class="location" id="profile.location">Carregando...
+        </p>
         <p class="phone">
-          <a href="https://web.whatsapp.com/send?phone=+5519989705443" target="_blank">
-            (19) 9 8970-5443
+          <a href="https://web.whatsapp.com/send?phone=+5519989705443" target="_blank" id="profile.phone">
+           Carregando...
           </a>
         </p>
         <p class="email">
-          <a href="mailto:gustavosimaozamai@gmail.com" target="_blank">
-            gustavosimaozamai@gmail.com
+          <a href="mailto:gustavosimaozamai@gmail.com" target="_blank" id="profile.email">
+            Carregando...
           </a>
         </p>
       </div>
     </header>
 
-    <section class="acordeon open">
+    <section class="acordeon">
       <button class="trigger" type="button">
         <h2>Skills</h2>
       </button>
@@ -63,42 +66,16 @@
         <div class="skills">
           <section class="tools">
             <h3>Ferramentas/Linguagens:</h3>
-            <ul>
-              <li>
-               <img src="/assets/images/icons/tools/javascript.svg" alt="Javascript" title="Javascript"> 
-              </li>
-              <li>
-                <img src="/assets/images/icons/tools/css.svg" alt="CSS3" title="CSS3">
-              </li>
-                <li>
-                <img src="/assets/images/icons/tools/bootstrap.svg" alt="Bootstrap" title="Bootstrap">
-              </li>
-                <li>
-                <img src="/assets/images/icons/tools/git.svg" alt="Git" title="Git">
-              </li>
-                <li>
-                <img src="/assets/images/icons/tools/github.svg" alt="Github" title="Github">
-              </li>
-                <li>
-                <img src="/assets/images/icons/tools/html.svg" alt="HTML5" title="HTML5">
-              </li>
-                <li>
-                <img src="/assets/images/icons/tools/java.svg" alt="Java" title="Java">
-              </li>
-                <li>
-                <img src="/assets/images/icons/tools/nodejs.svg" alt="NodaJS" title="NodeJS">
-              </li>
+            <ul id="profile.skills.hardSkills">
+      
             </ul>
           </section>
           <section class="personal">
             <h3>Habilidades Pessoais:</h3>
-            <ul>
-              <li>Liderança</li>
-              <li>Organização</li>
-              <li>Facilidade de Comunicação</li>
-              <li>Trabalho em equipe</li>
-              <li>Flexibilidade</li>
-              <li>Comprometimento com resultados</li>
+            <ul id="profile.skills.softSkills">
+              <li>Carregando...</li>
+              <li>Carregando...</li>
+              <li>Carregando...</li>
             </ul>
           </section>
         </div>
@@ -109,10 +86,8 @@
         <h2>Idiomas</h2>
       </button>
       <div class="content">
-        <ul class="languages">
-          <li>Português (BR)</li>
-          <li>Inglês</li>
-          <li>Espanhol</li>
+        <ul class="languages" id="profile.languages">
+          <li>Carregando...</li>
         </ul>
       </div>
     </section>
@@ -122,22 +97,7 @@
         <h2>Portfólio</h2>
       </button>
       <div class="content">
-        <ul class="portfolio">
-          <li>
-            <h3 class="title github">Criando um App de lembrete</h3>
-            <a href="https://www.google.com" target="_blank">https://www.google.com</a>
-          </li>
-
-          <li>
-            <h3 class="title">Criando um App de lembrete</h3>
-            <a href="https://www.google.com" target="_blank">https://www.google.com</a>
-          </li>
-
-          <li>
-            <h3 class="title github">Criando um App de lembrete</h3>
-            <a href="https://www.google.com" target="_blank">https://www.google.com</a>
-          </li>
-
+        <ul class="portfolio" id="profile.portfolio">
         </ul>
       </div>
     </section>
@@ -170,6 +130,8 @@
   </main>
 
   <script src="/assets/js/acordeon.js"></script>
+  <script src="/assets/js/api.js"></script>
+  <script src="/assets/js/main.js"></script>
 </body>
 
 </html>
