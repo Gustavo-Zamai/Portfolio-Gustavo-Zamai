@@ -10,8 +10,8 @@
 
 .acordeon.open,
 .acordeon:hover {
-    background-color: #55569E;
-    border-color: #55569E;
+    background-color: #6b118f;
+    border-color: #6b118f;
 }
 
 .trigger {
@@ -35,6 +35,7 @@
 
 .trigger:hover {
     cursor: pointer;
+    color: #000;
 }
 
 .trigger::after {
@@ -47,6 +48,7 @@
     background-image: url('../images/icons/arrow-top.svg');
     transition: .25s;
 }
+
 
 .acordeon.open .trigger::after {
     transform: rotate(180deg);

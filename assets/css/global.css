@@ -13,11 +13,27 @@ body {
 .main {
     margin: 1rem;
     padding: 1rem;
-    background: linear-gradient(-50deg, rgb(98, 52, 219) ,rgb(70, 68, 214),rgb(36, 91, 192), rgb(98, 52, 207));
+    background: linear-gradient(-50deg, rgb(98, 52, 219), rgb(70, 68, 214), rgb(36, 91, 192), rgb(98, 52, 207));
     border: 1px solid #fff;
     border-radius: .5rem;
-    
+
 }
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 
 @media only screen and (min-width: 768px) {
     .main {

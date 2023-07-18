@@ -22,6 +22,7 @@
     font-size: 1.25rem;
     font-weight: 700;
     padding-bottom: .5rem;
+
 }
 
 .portfolio li .title.github::before {
@@ -35,11 +36,3 @@
     background-size: contain;
 }
 
-.portfolio li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-.portfolio li a:hover {
-    text-decoration: underline;
-}
