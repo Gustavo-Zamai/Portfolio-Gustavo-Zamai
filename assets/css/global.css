@@ -14,7 +14,7 @@ body {
     margin: 1rem;
     padding: 1rem;
     background: linear-gradient(-50deg, #2C3E50, #4A6A82, #2ECC71);
-    border: 1px solid #fff;
+    border: 1px solid #000;
     border-radius: .5rem;
 
 }
