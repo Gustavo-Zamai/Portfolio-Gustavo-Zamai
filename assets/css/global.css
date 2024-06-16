@@ -7,13 +7,13 @@
 
 body {
     color: #000;
-    background-color: #8b4df0;
+    background-color: #2c3e50;
 }
 
 .main {
     margin: 1rem;
     padding: 1rem;
-    background: linear-gradient(-50deg, rgb(98, 52, 219), rgb(70, 68, 214), rgb(36, 91, 192), rgb(98, 52, 207));
+    background: linear-gradient(-50deg, #2C3E50, #4A6A82, #2ECC71);
     border: 1px solid #fff;
     border-radius: .5rem;
 
